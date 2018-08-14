@@ -1,0 +1,162 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2015.3                 C:/Xilinx/Vivado/2015.3
+Matlab 8.6.0.267246 (R2015b)            C:\Program Files\MATLAB\R2015b
+Vivado 2015.3                           C:/Xilinx/Vivado/2015.3
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map/Concat'
+Error 0002: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map/Gateway In'
+Error 0003: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map/Gateway In1'
+Error 0004: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map/Gateway Out'
+Error 0005: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map/Gateway Out1'
+Error 0006: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map/Inverter'
+Error 0007: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map/Inverter1'
+Error 0008: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map/Slice'
+Error 0009: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map/Slice1'
+Error 0010: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map/X Mux'
+Error 0011: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map/Y Mux'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map/Concat'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map/Gateway In'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map/Gateway In1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map/Gateway Out'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map/Gateway Out1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map/Inverter'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map/Inverter1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map/Slice'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map/Slice1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map/X Mux'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map/Y Mux'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------

@@ -1,0 +1,848 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2015.4                 C:/Xilinx/Vivado/2015.4
+Matlab 8.6.0.267246 (R2015b)            C:\Program Files\MATLAB\R2015b
+Vivado 2015.4                           C:/Xilinx/Vivado/2015.4
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell0/AddSub1'
+Error 0002: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell0/AddSub2'
+Error 0003: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell0/AddSub3'
+Error 0004: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell0/Constant'
+Error 0005: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell0/Inverter'
+Error 0006: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell0/Logical'
+Error 0007: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell0/Shift'
+Error 0008: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell0/Shift1'
+Error 0009: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell0/Slice'
+Error 0010: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell0/Slice1'
+Error 0011: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell1/AddSub1'
+Error 0012: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell1/AddSub2'
+Error 0013: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell1/AddSub3'
+Error 0014: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell1/Constant'
+Error 0015: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell1/Inverter'
+Error 0016: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell1/Logical'
+Error 0017: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell1/Shift'
+Error 0018: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell1/Shift1'
+Error 0019: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell1/Slice'
+Error 0020: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell1/Slice1'
+Error 0021: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell2/AddSub1'
+Error 0022: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell2/AddSub2'
+Error 0023: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell2/AddSub3'
+Error 0024: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell2/Constant'
+Error 0025: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell2/Inverter'
+Error 0026: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell2/Logical'
+Error 0027: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell2/Shift'
+Error 0028: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell2/Shift1'
+Error 0029: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell2/Slice'
+Error 0030: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell2/Slice1'
+Error 0031: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell3/AddSub1'
+Error 0032: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell3/AddSub2'
+Error 0033: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell3/AddSub3'
+Error 0034: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell3/Constant'
+Error 0035: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell3/Inverter'
+Error 0036: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell3/Logical'
+Error 0037: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell3/Shift'
+Error 0038: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell3/Shift1'
+Error 0039: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell3/Slice'
+Error 0040: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell3/Slice1'
+Error 0041: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell4/AddSub1'
+Error 0042: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell4/AddSub2'
+Error 0043: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell4/AddSub3'
+Error 0044: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell4/Constant'
+Error 0045: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell4/Inverter'
+Error 0046: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell4/Logical'
+Error 0047: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell4/Shift'
+Error 0048: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell4/Shift1'
+Error 0049: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell4/Slice'
+Error 0050: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/CORDIC Iterations/Cell4/Slice1'
+Error 0051: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/Gateway In'
+Error 0052: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/Gateway In1'
+Error 0053: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/Gateway In2'
+Error 0054: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/Quadrant Mapper/Concat'
+Error 0055: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/Quadrant Mapper/Inverter'
+Error 0056: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/Quadrant Mapper/Inverter1'
+Error 0057: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/Quadrant Mapper/Slice'
+Error 0058: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/Quadrant Mapper/Slice1'
+Error 0059: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/Quadrant Mapper/X Mux'
+Error 0060: Part on the System Generator Token in your design is set ...
+     Block: 'vectoring_iterations/Quadrant Mapper/Y Mux'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell0/AddSub1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell0/AddSub2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell0/AddSub3'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell0/Constant'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell0/Inverter'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell0/Logical'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell0/Shift'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell0/Shift1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell0/Slice'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell0/Slice1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell1/AddSub1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell1/AddSub2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell1/AddSub3'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell1/Constant'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell1/Inverter'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell1/Logical'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell1/Shift'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell1/Shift1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell1/Slice'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell1/Slice1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell2/AddSub1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell2/AddSub2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell2/AddSub3'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell2/Constant'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell2/Inverter'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell2/Logical'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell2/Shift'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell2/Shift1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell2/Slice'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell2/Slice1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell3/AddSub1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell3/AddSub2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell3/AddSub3'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell3/Constant'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell3/Inverter'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell3/Logical'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell3/Shift'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell3/Shift1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell3/Slice'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell3/Slice1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell4/AddSub1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell4/AddSub2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell4/AddSub3'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell4/Constant'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell4/Inverter'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell4/Logical'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell4/Shift'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell4/Shift1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell4/Slice'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/CORDIC Iterations/Cell4/Slice1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/Gateway In'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/Gateway In1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/Gateway In2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/Quadrant Mapper/Concat'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/Quadrant Mapper/Inverter'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/Quadrant Mapper/Inverter1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/Quadrant Mapper/Slice'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/Quadrant Mapper/Slice1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/Quadrant Mapper/X Mux'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'vectoring_iterations/Quadrant Mapper/Y Mux'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------

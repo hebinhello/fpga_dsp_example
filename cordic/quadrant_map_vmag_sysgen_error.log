@@ -1,0 +1,106 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2014.3                 C:/Xilinx/Vivado/2014.3
+Matlab 8.1.0.604 (R2013a)               C:\Program Files\MATLAB\R2013a
+Vivado 2014.3                           C:/Xilinx/Vivado/2014.3
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map_vmag/Gateway In'
+Error 0002: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map_vmag/Gateway In1'
+Error 0003: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map_vmag/Gateway Out'
+Error 0004: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map_vmag/Gateway Out1'
+Error 0005: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map_vmag/Mux'
+Error 0006: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map_vmag/Negate'
+Error 0007: Part on the System Generator Token in your design is set ...
+     Block: 'quadrant_map_vmag/Slice'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map_vmag/Gateway In'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map_vmag/Gateway In1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map_vmag/Gateway Out'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map_vmag/Gateway Out1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map_vmag/Mux'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map_vmag/Negate'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'quadrant_map_vmag/Slice'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
