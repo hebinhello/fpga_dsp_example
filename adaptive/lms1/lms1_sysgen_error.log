@@ -1,0 +1,512 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2017.2                 C:/Xilinx/Vivado/2017.2
+Matlab 9.1.0.441655 (R2016b)            d:\Program Files\MATLAB\R2016b
+Vivado 2017.2                           C:/Xilinx/Vivado/2017.2
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/Channel Model/Gateway In'
+Error 0002: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/Channel Model/Gateway Out'
+Error 0003: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/Gateway In'
+Error 0004: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/Gateway Out1'
+Error 0005: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/AddSub'
+Error 0006: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/AddSub1'
+Error 0007: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/AddSub2'
+Error 0008: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/AddSub3'
+Error 0009: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/AddSub4'
+Error 0010: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/AddSub5'
+Error 0011: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/AddSub6'
+Error 0012: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/AddSub7'
+Error 0013: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Constant'
+Error 0014: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Delay1'
+Error 0015: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Delay10'
+Error 0016: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Delay2'
+Error 0017: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Delay3'
+Error 0018: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Delay4'
+Error 0019: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Delay5'
+Error 0020: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Delay6'
+Error 0021: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Delay7'
+Error 0022: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Delay8'
+Error 0023: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Delay9'
+Error 0024: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Gateway Out2'
+Error 0025: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Gateway Out3'
+Error 0026: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Gateway Out4'
+Error 0027: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Gateway Out5'
+Error 0028: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Mult'
+Error 0029: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Mult1'
+Error 0030: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Mult2'
+Error 0031: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Mult3'
+Error 0032: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Mult4'
+Error 0033: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Mult5'
+Error 0034: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Mult6'
+Error 0035: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Mult7'
+Error 0036: Part on the System Generator Token in your design is set ...
+     Block: 'lms1/LMS Adaptive Filter/Mult8'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/Channel Model/Gateway In'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/Channel Model/Gateway Out'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/Gateway In'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/Gateway Out1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/AddSub'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/AddSub1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/AddSub2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/AddSub3'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/AddSub4'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/AddSub5'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/AddSub6'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/AddSub7'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Constant'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Delay1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Delay10'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Delay2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Delay3'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Delay4'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Delay5'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Delay6'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Delay7'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Delay8'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Delay9'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Gateway Out2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Gateway Out3'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Gateway Out4'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Gateway Out5'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Mult'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Mult1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Mult2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Mult3'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Mult4'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Mult5'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Mult6'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Mult7'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'lms1/LMS Adaptive Filter/Mult8'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex2p xc2vp30-7ff896. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
